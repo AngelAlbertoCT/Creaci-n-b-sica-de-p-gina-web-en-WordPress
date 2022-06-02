@@ -1,7 +1,7 @@
 #Práctica 1
 ##Creación básica de página web en WordPress
 
-![Logo WordPress]([Imagenes\WordPress_blue_logo.svg.png](https://github.com/AngelAlbertoCT/Creaci-n-b-sica-de-p-gina-web-en-WordPress/blob/main/Imagenes/Imagen1.png))
+![Logo WordPress](https://github.com/AngelAlbertoCT/Creaci-n-b-sica-de-p-gina-web-en-WordPress/blob/main/Imagenes/Imagen1.png)
 
 En esta práctica se aprende a crear una página Web utilizando WordPress. Se utilizarán las herramientas que nos proporciona Azure desde la página http://portal.azure.com/ .
 
