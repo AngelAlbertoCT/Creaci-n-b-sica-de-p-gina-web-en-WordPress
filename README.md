@@ -1,5 +1,5 @@
-#Práctica 1
-##Creación básica de página web en WordPress
+# Práctica 1
+## Creación básica de página web en WordPress
 
 ![Logo WordPress](https://github.com/AngelAlbertoCT/Creaci-n-b-sica-de-p-gina-web-en-WordPress/blob/main/Imagenes/WordPress_blue_logo.svg.png)
 
